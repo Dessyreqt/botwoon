@@ -94,7 +94,7 @@ ipch/
 *.ncb
 *.opendb
 *.opensdf
-*.sdf
+# *.sdf disable for botwoon database
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
